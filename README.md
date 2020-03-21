@@ -1,24 +1,18 @@
-# starter-worker-vue
+# Vue & web workers starter code
 
-## Project setup
-```
+This repository demonstrates how to use VueJS with web-workers.
+A full explanation is available on [my blog](https://braincoke.fr/blog/2020/03/use-web-workers-with-vue/).
+
+## Usage
+
+Install the dependencies with:
+
+~~~bash
 npm install
-```
+~~~
 
-### Compiles and hot-reloads for development
-```
+Run the server with:
+
+~~~bash
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+~~~
